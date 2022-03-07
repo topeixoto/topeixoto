@@ -17,7 +17,7 @@
 ```javascript
 const tai = {
   pronouns: "she" | "her",
-  code: [Javascript, Python, Java, C, HTML, CSS],
+  code: [Javascript, Python, R, Java, HTML, CSS],
   tools: [React, Storybook, Styled-Components, Jest, Cypress, Docker],
   techCommunities: {
                         coorganizer: "Girl for IT",
